@@ -1,0 +1,29 @@
+USE ONLINE_STORE
+INSERT INTO PRODUCTS (NAME, PRICE, DEPARTMENT, DESCRIPTION)
+	VALUES ("Black Tennis shoes", 38.99, "Tennis", "Comfortable, breathable tennis shoes that will boost your performance and make your feet feel epic"),
+	("White Tennis shoes", 38.99, "Tennis", "Comfortable, breathable tennis shoes that will boost your performance and make your feet feel epic"),
+	("Tennis Racket", 29.99, "Tennis", "Lightweight yet fierce, you will be fearless and hit shots with power"),
+	("Tennis Balls - 5 Pack", 11.99, "Tennis", "Classic, beautiful balls that smell fresh and are ready for some action"),
+	("Tennis Balls - 20 Pack", 47.99, "Tennis", "Classic, beautiful balls that smell fresh and are ready for some action"),
+	("Soccer Ball", 10.99, "Soccer", "Artisan-crafted soccer ball that is perfect for any occasion"),
+	("White Soccer Shoes", 36.99, "Soccer", "Improve your soccer skills with these breathable shoes"),
+	("Black Soccer Shoes", 36.99, "Soccer", "Improve your soccer skills with these breathable shoes"),
+	("Jose Mourinho Ball", 49.99, "Soccer", "LIMITED EDITION - Signed by the man himself!"),
+	("Unisex Soccer Shorts", 15.99, "Soccer", "Literally anyone can wear these as part of soccer uniform"),
+	("Hockey Stick", 29.99, "Field Hockey", "Not just for outdoor use - try it on the ice rink!"),
+	("FH Ball", 12.99, "Field Hockey", "Big ball for the bestest field hockey games"),
+	("FH Uniform", 29.99, "Field Hockey", "You can get this uniform custom designed!"),
+	("Pink FH Shoes", 35.99, "Field Hockey", "Boost your field hockey performance with these baller shoes!"),
+	("Navy FH Shoes", 35.99, "Field Hockey", "Boost your field hockey performance with these baller shoes!"),
+	("2 Person Tent", 39.99, "Camping", "Easy to construct and fun for everyone!"),
+	("5 Person Tent", 79.99, "Camping", "Easy to construct and fun for everyone!"),
+	("10 Person Tent", 39.99, "Camping", "Easy to construct; built-in WiFi"),
+	("Small Camping Backpack", 49.99, "Camping", "Carry all of your camping gear with this bag!"),
+	("Large Camping Backpack", 109.99, "Camping", "Carry all of your camping gear with this bag!"),
+	("Basketball", 10.99, "Basketball", "Lightweight yet strong ball; solid price"),
+	("Shaq Basketball", 49.99, "Basketball", "LIMITED EDITION - Signed by the man himself!"),
+	("Black Basketball shoes", 48.99, "Basketball", "These shoes boost your performance in basketball"),
+	("White Basketball shoes", 48.99, "Basketball", "These shoes boost your performance in basketball"),
+	("Basketball Uniform", 27.99, "Basketball", "You can get this uniform custom designed!");
+	
+	
